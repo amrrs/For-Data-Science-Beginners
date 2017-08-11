@@ -3,10 +3,11 @@ Set of Notes with links to help those who are Data Science Beginners
 
 **Blogs to Follow:** 
 
-o   https://www.analyticsvidhya.com/ 
-o    http://www.kdnuggets.com/ 
-o   https://www.r-bloggers.com/ 
-o   https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read (More More)
+* http://www.datasciencecentral.com/
+* http://www.kdnuggets.com/ 
+* https://www.analyticsvidhya.com/ 
+* https://www.r-bloggers.com/ 
+* https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read (More More)
 
 **To Learn:** 
 
