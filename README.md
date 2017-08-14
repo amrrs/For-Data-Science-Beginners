@@ -27,6 +27,8 @@ Set of Notes with links to help those who are Data Science Beginners
 * https://github.com/Developer-Y/cs-video-courses 
 * https://github.com/JanVanRyswyck/awesome-talks 
 * https://github.com/caesar0301/awesome-public-datasets 
+* https://github.com/josephmisiti/awesome-machine-learning
+* https://github.com/ChristosChristofidis/awesome-deep-learning
 
 **Hackathons/Competitions:** 
 
