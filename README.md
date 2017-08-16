@@ -16,6 +16,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/ 
 * https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/ 
 * https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/ 
+* https://hackernoon.com/minimalistic-learning-path-to-become-a-data-scientist-c0a4f614bd09
 
 **Videos:** 
 
