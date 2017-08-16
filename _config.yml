@@ -1,2 +1,2 @@
 theme: jekyll-theme-minimal
-{{ site.url }}
+{{ site.github.url }}
