@@ -4,7 +4,7 @@ Set of Notes with links to help those who are Data Science Beginners
 
 
 
-**Blogs to Follow:** 
+**Blogs to Follow:**
 
 
 
@@ -16,11 +16,17 @@ Set of Notes with links to help those who are Data Science Beginners
 
 * [R-Bloggers](https://www.r-bloggers.com/)
 
-* [What are the best Blogs for Data Scientists to Read - Quora](https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read) 
+* [What are the best Blogs for Data Scientists to Read - Quora](https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read)
+
+* [Cognitive class](https://cognitiveclass.ai/blog/)
+
+* [Simply Statistics](https://simplystatistics.org/)
+
+* [Edwin Chens blog](http://blog.echen.me/)
 
 
 
-**To Learn:** 
+**To Learn:**
 
 
 
@@ -32,16 +38,19 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Minimalistic Learning Path to Become a Data Scientist](https://hackernoon.com/minimalistic-learning-path-to-become-a-data-scientist-c0a4f614bd09)
 
 
-**Videos:** 
+**Videos:**
 
 
 
 * [Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-2)
 * [Data Science | Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Aspiring Data Scientist! Here are 8 free online courses to start](https://medium.com/data36/wannabe-data-scientist-here-are-10-free-online-courses-to-start-693c4e230059)
+* [Statistics and Data Science | Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL)
 
 
-**Github:** 
+**Github:**
+
+
 
 * [GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
 * [GitHub - JanVanRyswyck/awesome-talks: Awesome online talks and screencasts](https://github.com/JanVanRyswyck/awesome-talks)
@@ -50,7 +59,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [GitHub - ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 
-**Hackathons/Competitions:** 
+**Hackathons/Competitions:**
 
 
 
@@ -60,7 +69,9 @@ Set of Notes with links to help those who are Data Science Beginners
 * [http://www.topcoder.com/active-challenges/data/](http://www.topcoder.com/active-challenges/data/)
 
 
-**Datasets:** 
+**Datasets:**
+
+
 
 * [](http://data.worldbank.org/)
 * [Open Government Data (OGD) Platform India](http://data.gov.in/)
@@ -68,7 +79,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Datasets | Kaggle](https://www.kaggle.com/datasets)
 
 
-**Podcasts:** 
+**Podcasts:**
 
 
 
