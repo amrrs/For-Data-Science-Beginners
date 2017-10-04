@@ -73,7 +73,7 @@ Set of Notes with links to help those who are Data Science Beginners
 
 
 
-* [](http://data.worldbank.org/)
+* [Data worldbank](http://data.worldbank.org/)
 * [Open Government Data (OGD) Platform India](http://data.gov.in/)
 * [http://archive.ics.uci.edu/ml/](http://archive.ics.uci.edu/ml/)
 * [Datasets | Kaggle](https://www.kaggle.com/datasets)
