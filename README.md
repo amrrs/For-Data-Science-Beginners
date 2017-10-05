@@ -9,20 +9,14 @@ Set of Notes with links to help those who are Data Science Beginners
 
 
 * [Data Science Central](http://www.datasciencecentral.com/)
-
 * [KDNuggets](http://www.kdnuggets.com/)
-
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
-
 * [R-Bloggers](https://www.r-bloggers.com/)
-
 * [What are the best Blogs for Data Scientists to Read - Quora](https://www.quora.com/What-are-the-best-blogs-for-data-scientists-to-read)
-
 * [Cognitive class](https://cognitiveclass.ai/blog/)
-
 * [Simply Statistics](https://simplystatistics.org/)
-
 * [Edwin Chens blog](http://blog.echen.me/)
+* [Deepmind Blog](https://deepmind.com/blog/)
 
 
 
