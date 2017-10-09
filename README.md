@@ -87,6 +87,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Amazon Machine Learning](https://aws.amazon.com/machine-learning/)
 * [TensorFlow](https://www.tensorflow.org/)
 * [Theano](http://deeplearning.net/software/theano/)
+* [Torch](http://torch.ch/)
 
 **Communities:**
 * [Reddit /r/DataScience](https://www.reddit.com/r/datascience/)
