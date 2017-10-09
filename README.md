@@ -82,9 +82,12 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Udacity - Free Online Classes & Nanodegrees](https://www.udacity.com/podcasts/linear-digressions)
 88
 
-**Libraries**
+**Libraries:**
 * [Apache Singa](http://singa.apache.org/docs/overview.html)
 * [Amazon Machine Learning](https://aws.amazon.com/machine-learning/)
 * [TensorFlow](https://www.tensorflow.org/)
 * [Theano](http://deeplearning.net/software/theano/)
+
+**Communities:**
+* [Reddit /r/DataScience](https://www.reddit.com/r/datascience/)
 
