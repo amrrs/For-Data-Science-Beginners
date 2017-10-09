@@ -17,7 +17,8 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Simply Statistics](https://simplystatistics.org/)
 * [Edwin Chens blog](http://blog.echen.me/)
 * [Deepmind Blog](https://deepmind.com/blog/)
-
+* [Dataversity Blog](http://www.dataversity.net/category/blogs/)
+* [Yhat Blog](http://blog.yhat.com/)
 
 
 **To Learn:**
