@@ -79,8 +79,8 @@ Set of Notes with links to help those who are Data Science Beginners
 
 * [Partially Derivative](http://www.partiallyderivative.com/)
 * [Data Skeptic](http://dataskeptic.com/)
-* [Udacity - Free Online Classes & Nanodegrees](https://www.udacity.com/podcasts/linear-digressions)
-88
+* [Linear Digressions](http://lineardigressions.com/)
+* [R-Podcast](https://r-podcast.org/)
 
 **Libraries:**
 * [Apache Singa](http://singa.apache.org/docs/overview.html)
