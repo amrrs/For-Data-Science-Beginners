@@ -24,7 +24,7 @@ Set of Notes with links to help those who are Data Science Beginners
 **To Learn:**
 
 
-
+* [ADVICE FOR ASPIRING DATA SCIENTISTS AND OTHER FAQS](https://yanirseroussi.com/2017/10/15/advice-for-aspiring-data-scientists-and-other-faqs/)
 * [How to get your first job in Data Science?  Tomi Mester  Medium](https://medium.com/@datalab/how-to-break-into-the-data-science-market-f0e0b79b42f7)
 * [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
 * [LeaRning Path on R - Step by Step Guide to Learn Data Science on R](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/)
