@@ -74,6 +74,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [http://archive.ics.uci.edu/ml/](http://archive.ics.uci.edu/ml/)
 * [Datasets | Kaggle](https://www.kaggle.com/datasets)
 * [r/datasets | Reddit](https://www.reddit.com/r/datasets/)
+* [Data World](https://data.world/)
 
 
 **Podcasts:**
