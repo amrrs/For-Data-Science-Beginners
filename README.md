@@ -94,3 +94,9 @@ Set of Notes with links to help those who are Data Science Beginners
 **Communities:**
 * [Reddit /r/DataScience](https://www.reddit.com/r/datascience/)
 
+**Misc**
+* [Git for Humans - Alice Bartlett](https://speakerdeck.com/alicebartlett/git-for-humans)
+
+**Videos**
+* [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
+
