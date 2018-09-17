@@ -95,7 +95,8 @@ Set of Notes with links to help those who are Data Science Beginners
 
 **Communities:**
 * [Reddit /r/DataScience](https://www.reddit.com/r/datascience/)
-* [Reddit r/rstats/](https://www.reddit.com/r/rstats/)
+* [Reddit r/rstats](https://www.reddit.com/r/rstats/)
+* [Reddit r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
 
 **Misc**
 * [Git for Humans - Alice Bartlett](https://speakerdeck.com/alicebartlett/git-for-humans)
