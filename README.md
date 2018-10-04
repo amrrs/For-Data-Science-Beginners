@@ -105,4 +105,4 @@ Set of Notes with links to help those who are Data Science Beginners
 
 **Videos**
 * [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
-
+* Beginner guide for [Neural Networks and Machine Learning](https://www.youtube.com/user/shiffman/playlists?flow=grid&view=50&shelf_id=16)
