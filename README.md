@@ -1,13 +1,7 @@
 # For Data Science Beginners
-
 Set of Notes with links to help those who are Data Science Beginners
 
-
-
 **Blogs to Follow:**
-
-
-
 * [Data Science Central](http://www.datasciencecentral.com/)
 * [KDNuggets](http://www.kdnuggets.com/)
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
@@ -21,10 +15,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Dataversity Blog](http://www.dataversity.net/category/blogs/)
 * [Yhat Blog](http://blog.yhat.com/)
 
-
 **To Learn:**
-
-
 * [ADVICE FOR ASPIRING DATA SCIENTISTS AND OTHER FAQS](https://yanirseroussi.com/2017/10/15/advice-for-aspiring-data-scientists-and-other-faqs/)
 * [How to get your first job in Data Science?  Tomi Mester  Medium](https://medium.com/@datalab/how-to-break-into-the-data-science-market-f0e0b79b42f7)
 * [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
@@ -33,22 +24,14 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Infographic - Quick Guide to learn Python for Data Science](https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Minimalistic Learning Path to Become a Data Scientist](https://hackernoon.com/minimalistic-learning-path-to-become-a-data-scientist-c0a4f614bd09)
 
-
 **Videos:**
-
-
-
 * [Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-2)
 * [Data Science | Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Aspiring Data Scientist! Here are 8 free online courses to start](https://medium.com/data36/wannabe-data-scientist-here-are-10-free-online-courses-to-start-693c4e230059)
 * [Statistics and Data Science | Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL)
 * [Siraj Raval | Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
-
 **Github:**
-
-
-
 * [GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
 * [GitHub - JanVanRyswyck/awesome-talks: Awesome online talks and screencasts](https://github.com/JanVanRyswyck/awesome-talks)
 * [GitHub - caesar0301/awesome-public-datasets: A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!](https://github.com/caesar0301/awesome-public-datasets)
@@ -56,21 +39,13 @@ Set of Notes with links to help those who are Data Science Beginners
 * [GitHub - ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [GitHub - ossu/data-science: Path to a free self-taught education in Data Science!.](https://github.com/ossu/data-science)
 
-
 **Hackathons/Competitions:**
-
-
-
 * [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
 * [DataHack : Biggest Data hackathon platform for Data Scientists](https://datahack.analyticsvidhya.com/)
 * [CrowdANALYTIX:A crowdsourced analytics platform to solve data-driven business problems](https://www.crowdanalytix.com/jq/solver.html)
 * [http://www.topcoder.com/active-challenges/data/](http://www.topcoder.com/active-challenges/data/)
 
-
 **Datasets:**
-
-
-
 * [Data worldbank](http://data.worldbank.org/)
 * [Open Government Data (OGD) Platform India](http://data.gov.in/)
 * [http://archive.ics.uci.edu/ml/](http://archive.ics.uci.edu/ml/)
@@ -79,9 +54,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Data World](https://data.world/)
 * [Data Sources - Jo Hardin - Pomona College](http://research.pomona.edu/johardin/datasources/)
 
-
 **Podcasts:**
-
 * [Partially Derivative](http://www.partiallyderivative.com/)
 * [Data Skeptic](http://dataskeptic.com/)
 * [Linear Digressions](http://lineardigressions.com/)
@@ -106,3 +79,6 @@ Set of Notes with links to help those who are Data Science Beginners
 **Videos**
 * [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
 * Beginner guide for [Neural Networks and Machine Learning](https://www.youtube.com/user/shiffman/playlists?flow=grid&view=50&shelf_id=16)
+
+**Newsletter**
+* [Data Science](https://www.datascienceweekly.org/)
