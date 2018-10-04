@@ -54,6 +54,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [GitHub - caesar0301/awesome-public-datasets: A topic-centric list of high-quality open datasets in public domains. By everyone, for everyone!](https://github.com/caesar0301/awesome-public-datasets)
 * [GitHub - josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 * [GitHub - ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [GitHub - ossu/data-science: Path to a free self-taught education in Data Science!.](https://github.com/ossu/data-science)
 
 
 **Hackathons/Competitions:**
