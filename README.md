@@ -53,6 +53,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [r/datasets | Reddit](https://www.reddit.com/r/datasets/)
 * [Data World](https://data.world/)
 * [Data Sources - Jo Hardin - Pomona College](http://research.pomona.edu/johardin/datasources/)
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 **Podcasts:**
 * [Partially Derivative](http://www.partiallyderivative.com/)
