@@ -14,6 +14,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Deepmind Blog](https://deepmind.com/blog/)
 * [Dataversity Blog](http://www.dataversity.net/category/blogs/)
 * [Yhat Blog](http://blog.yhat.com/)
+* [DataSchool](https://www.dataschool.io/)
 
 **To Learn:**
 * [ADVICE FOR ASPIRING DATA SCIENTISTS AND OTHER FAQS](https://yanirseroussi.com/2017/10/15/advice-for-aspiring-data-scientists-and-other-faqs/)
