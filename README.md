@@ -85,6 +85,7 @@ Set of Notes with links to help those who are Data Science Beginners
 
 **Newsletter**
 * [Data Science](https://www.datascienceweekly.org/)
+* [Data Science and R: how do I start?](https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e)
 
 **Math Courses**
 * [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!)
