@@ -76,18 +76,18 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Reddit r/rstats](https://www.reddit.com/r/rstats/)
 * [Reddit r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
 
-**Misc**
+**Misc:**
 * [Git for Humans - Alice Bartlett](https://speakerdeck.com/alicebartlett/git-for-humans) [[Video]](https://www.youtube.com/watch?v=eWxxfttcMts)
 
-**Videos**
+**Videos:**
 * [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
 * Beginner guide for [Neural Networks and Machine Learning](https://www.youtube.com/user/shiffman/playlists?flow=grid&view=50&shelf_id=16)
 
-**Newsletter**
+**Newsletter:**
 * [Data Science](https://www.datascienceweekly.org/)
 * [Data Science and R: how do I start?](https://medium.com/@kierisi/data-science-and-r-how-do-i-start-7a87426e103e)
 
-**Math Courses**
+**Math Courses:**
 * [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!)
 * [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)
 * [Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)
@@ -96,8 +96,9 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-0)
 * [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)
 
+**Statistics Courses:**
 * [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2#.U3yb762SzIo)
-* [ntroduction to Statistics: Probability](https://www.edx.org/course/subject/data-analysis-statistics)
+* [Introduction to Statistics: Probability](https://www.edx.org/course/subject/data-analysis-statistics)
 * [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
 * [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)
 * [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
