@@ -102,6 +102,12 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)
 * [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)
 * [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
-
-
 * [MIT OCW Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+
+**Importance of Portfolio**
+
+
+* [My freewheeling conversation on Data Science](https://medium.com/@kesari/my-freewheeling-conversation-on-data-science-a34de1211e6d)
+* [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c?gi=51f41f814cd2)
+
+
