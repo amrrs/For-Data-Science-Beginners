@@ -109,5 +109,7 @@ Set of Notes with links to help those who are Data Science Beginners
 
 * [My freewheeling conversation on Data Science](https://medium.com/@kesari/my-freewheeling-conversation-on-data-science-a34de1211e6d)
 * [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c?gi=51f41f814cd2)
+* https://towardsdatascience.com/how-to-flaunt-your-passion-for-analytics-in-data-science-job-interviews-2cb432cc3d3d
 
+* https://towardsdatascience.com/the-cold-start-problem-how-to-build-your-machine-learning-portfolio-6718b4ae83e9 
 
