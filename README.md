@@ -63,6 +63,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Linear Digressions](http://lineardigressions.com/)
 * [R-Podcast](https://r-podcast.org/)
 * [Not so standard deviations](http://nssdeviations.com/)
+* [Dataframed](https://www.datacamp.com/community/podcast)
 
 **Libraries:**
 * [Apache Singa](http://singa.apache.org/docs/overview.html)
