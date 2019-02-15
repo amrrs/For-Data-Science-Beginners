@@ -25,6 +25,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Python Training | Python For Data Science | Learn Python](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
 * [Infographic - Quick Guide to learn Python for Data Science](https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Minimalistic Learning Path to Become a Data Scientist](https://hackernoon.com/minimalistic-learning-path-to-become-a-data-scientist-c0a4f614bd09)
+* [SQL for Data Analysis (Udacity)](https://classroom.udacity.com/courses/ud198)
 
 **Videos:**
 * [Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-2)
