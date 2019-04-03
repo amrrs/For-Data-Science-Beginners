@@ -81,6 +81,7 @@ Set of Notes with links to help those who are Data Science Beginners
 
 **Misc:**
 * [Git for Humans - Alice Bartlett](https://speakerdeck.com/alicebartlett/git-for-humans) [[Video]](https://www.youtube.com/watch?v=eWxxfttcMts)
+* [From Data to Viz leads you to the most appropriate graph for your data.](https://www.data-to-viz.com/)
 
 **Videos:**
 * [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc)
