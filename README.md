@@ -59,6 +59,7 @@ Set of Notes with links to help those who are Data Science Beginners
 * [Gapminder World](https://www.gapminder.org/data/)
 
 **Podcasts:**
+* [Artificial Intelligence: AI Podcast - by Lex Fridman](https://lexfridman.com/ai/)
 * [Partially Derivative](http://www.partiallyderivative.com/)
 * [Data Skeptic](http://dataskeptic.com/)
 * [Linear Digressions](http://lineardigressions.com/)
