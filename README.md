@@ -1,5 +1,6 @@
 # For Data Science Beginners
-Set of Notes with links to help those who are Data Science Beginners
+
+Set of Notes with links to help those who are Data Science Beginners. Feel free to raise a PR if you need to!
 
 **Blogs to Follow:**
 * [Data Science Central](http://www.datasciencecentral.com/)
