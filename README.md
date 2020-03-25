@@ -28,6 +28,7 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 * [Minimalistic Learning Path to Become a Data Scientist](https://hackernoon.com/minimalistic-learning-path-to-become-a-data-scientist-c0a4f614bd09)
 * [SQL for Data Analysis (Udacity)](https://classroom.udacity.com/courses/ud198)
 * [Recommended Python learning resources - fast.ai](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
++ [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 
 **Videos:**
 * [Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-2)
