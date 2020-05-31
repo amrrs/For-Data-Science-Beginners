@@ -31,6 +31,7 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 + [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 
 **Videos:**
+* [Practical Deep Learning Course for Coders](https://course.fast.ai/)
 * [Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-2)
 * [Data Science | Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Aspiring Data Scientist! Here are 8 free online courses to start](https://medium.com/data36/wannabe-data-scientist-here-are-10-free-online-courses-to-start-693c4e230059)
