@@ -36,6 +36,13 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 * [Data Science | Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Aspiring Data Scientist! Here are 8 free online courses to start](https://medium.com/data36/wannabe-data-scientist-here-are-10-free-online-courses-to-start-693c4e230059)
 * [Statistics and Data Science | Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL)
+* [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
+* [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
+* [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
+* [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
+* [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
+* [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
+* [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
 
 **Github:**
 * [GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
