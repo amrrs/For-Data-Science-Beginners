@@ -36,6 +36,7 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 * [Data Science | Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Aspiring Data Scientist! Here are 8 free online courses to start](https://medium.com/data36/wannabe-data-scientist-here-are-10-free-online-courses-to-start-693c4e230059)
 * [Statistics and Data Science | Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL)
+* [1000+ Free Data Science cpurses](https://skillcombo.com/courses/development/data-science/free/)
 
 **Github:**
 * [GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
