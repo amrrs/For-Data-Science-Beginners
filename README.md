@@ -23,7 +23,7 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 * [How to get your first job in Data Science?  Tomi Mester  Medium](https://medium.com/@datalab/how-to-break-into-the-data-science-market-f0e0b79b42f7)
 * [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
 * [LeaRning Path on R - Step by Step Guide to Learn Data Science on R](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/)
-* [Python Training | Python For Data Science | Learn Python](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
+* [Python Training \| Python For Data Science \| Learn Python](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
 * [Infographic - Quick Guide to learn Python for Data Science](https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Minimalistic Learning Path to Become a Data Scientist](https://hackernoon.com/minimalistic-learning-path-to-become-a-data-scientist-c0a4f614bd09)
 * [SQL for Data Analysis (Udacity)](https://classroom.udacity.com/courses/ud198)
@@ -32,10 +32,10 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 
 **Videos:**
 * [Practical Deep Learning Course for Coders](https://course.fast.ai/)
-* [Introduction to R for Data Science | edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-2)
-* [Data Science | Coursera](https://www.coursera.org/specializations/jhu-data-science)
+* [Introduction to R for Data Science \| edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-2)
+* [Data Science \| Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Aspiring Data Scientist! Here are 8 free online courses to start](https://medium.com/data36/wannabe-data-scientist-here-are-10-free-online-courses-to-start-693c4e230059)
-* [Statistics and Data Science | Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL)
+* [Statistics and Data Science \| Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rO5jY6RA1eFVcLVY2kJU_EL)
 
 **Github:**
 * [GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses)
@@ -55,8 +55,8 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 * [Data worldbank](http://data.worldbank.org/)
 * [Open Government Data (OGD) Platform India](http://data.gov.in/)
 * [http://archive.ics.uci.edu/ml/](http://archive.ics.uci.edu/ml/)
-* [Datasets | Kaggle](https://www.kaggle.com/datasets)
-* [r/datasets | Reddit](https://www.reddit.com/r/datasets/)
+* [Datasets \| Kaggle](https://www.kaggle.com/datasets)
+* [r/datasets \| Reddit](https://www.reddit.com/r/datasets/)
 * [Data World](https://data.world/)
 * [Data Sources - Jo Hardin - Pomona College](http://research.pomona.edu/johardin/datasources/)
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
