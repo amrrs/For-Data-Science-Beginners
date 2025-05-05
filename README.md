@@ -17,6 +17,7 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 * [Yhat Blog](http://blog.yhat.com/)
 * [Visualization with R](http://socviz.co/)
 * [DataSchool](https://www.dataschool.io/)
+* [Scaler Blogs](https://www.scaler.com/blog/category/data-science-business-analytics/)
 
 **To Learn:**
 * [ADVICE FOR ASPIRING DATA SCIENTISTS AND OTHER FAQS](https://yanirseroussi.com/2017/10/15/advice-for-aspiring-data-scientists-and-other-faqs/)
