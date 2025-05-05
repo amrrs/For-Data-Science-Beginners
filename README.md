@@ -18,6 +18,8 @@ Set of Notes with links to help those who are Data Science Beginners. Feel free 
 * [Visualization with R](http://socviz.co/)
 * [DataSchool](https://www.dataschool.io/)
 
+
+
 **To Learn:**
 * [ADVICE FOR ASPIRING DATA SCIENTISTS AND OTHER FAQS](https://yanirseroussi.com/2017/10/15/advice-for-aspiring-data-scientists-and-other-faqs/)
 * [How to get your first job in Data Science?  Tomi Mester  Medium](https://medium.com/@datalab/how-to-break-into-the-data-science-market-f0e0b79b42f7)
